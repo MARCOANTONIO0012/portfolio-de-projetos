@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Meu portfólio</title>
+</head>
+<body>
+    <img src="img/avatar-perfil.png" alt="avatar do  Marco" srcset="">
+    <p>Eu sou o Marcâo_</p>
+    <h1>Sou um ex lutador de mma e futuro militar</h1>
+    <p> gosto muito de fazenda e vida sertaneja. Ja trabalhei em varios setores, ja trabalhei na pecuaria, na agricultura (plantação de soja). Sou muito ligado ao militarismo e tambem gosto bastante </p>
+    <p>Minhas habilidades</p>
+    <div>
+            <p>sou ex lutador de m.m.a</p>
+            <p>ja montei em boi de rodeio</p>
+            <p>sei tocar violão e viola</p>
+            <p>fora isso, sei desenhar, canta, tocar teclado</p>
+    </div>
+</body>
+</html>
